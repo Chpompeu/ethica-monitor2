@@ -1,0 +1,124 @@
+{
+  "setup": [
+    {
+      "pergunta": "Existe clareza sobre o propósito da IA e seus limites éticos?",
+      "dimensao_ethica": "Governança",
+      "riscos_eticos": [
+        "Falta de transparência",
+        "Desresponsabilização"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "Há políticas claras de governança e responsabilidade definidas?",
+      "dimensao_ethica": "Governança",
+      "riscos_eticos": [
+        "Desresponsabilização",
+        "Falta de accountability"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "O escopo e os objetivos da IA estão bem definidos e comunicados?",
+      "dimensao_ethica": "Transparência",
+      "riscos_eticos": [
+        "Falta de transparência",
+        "Impactos inesperados"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "As fronteiras legais e éticas do domínio foram consideradas?",
+      "dimensao_ethica": "Governança",
+      "riscos_eticos": [
+        "Violação de privacidade",
+        "Uso indevido de dados"
+      ],
+      "tipo": "likert_comentario"
+    }
+  ],
+  "assessment": [
+    {
+      "pergunta": "Existem mecanismos para mitigar vieses nos dados ou modelos?",
+      "dimensao_ethica": "Equidade",
+      "riscos_eticos": [
+        "Discriminação",
+        "Injustiça algorítmica"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "A IA respeita os direitos de privacidade e está em conformidade com a LGPD?",
+      "dimensao_ethica": "Privacidade",
+      "riscos_eticos": [
+        "Violação de privacidade",
+        "Coleta abusiva de dados"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "As decisões da IA são auditáveis e explicáveis?",
+      "dimensao_ethica": "Integridade",
+      "riscos_eticos": [
+        "Falta de explicabilidade",
+        "Falta de auditoria"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "Há supervisão humana significativa nas decisões automatizadas?",
+      "dimensao_ethica": "Supervisão",
+      "riscos_eticos": [
+        "Automação excessiva",
+        "Falta de intervenção humana"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "As decisões impactam grupos vulneráveis de forma diferente?",
+      "dimensao_ethica": "Equidade",
+      "riscos_eticos": [
+        "Discriminação",
+        "Exclusão social"
+      ],
+      "tipo": "likert_comentario"
+    }
+  ],
+  "resolution": [
+    {
+      "pergunta": "Quais são os principais riscos éticos identificados durante o processo?",
+      "dimensao_ethica": "Governança",
+      "riscos_eticos": [
+        "Todos os riscos listados"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "Existe um plano de revisão contínua e atualização da IA?",
+      "dimensao_ethica": "Sustentabilidade",
+      "riscos_eticos": [
+        "Impactos emergentes",
+        "Desatualização ética"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "Como é feito o acompanhamento dos impactos sociais da IA?",
+      "dimensao_ethica": "Impacto Social",
+      "riscos_eticos": [
+        "Consequências imprevistas",
+        "Impactos não monitorados"
+      ],
+      "tipo": "likert_comentario"
+    },
+    {
+      "pergunta": "A empresa se compromete com a accountability e transparência futura?",
+      "dimensao_ethica": "Governança",
+      "riscos_eticos": [
+        "Falta de transparência",
+        "Desresponsabilização"
+      ],
+      "tipo": "likert_comentario"
+    }
+  ]
+}
