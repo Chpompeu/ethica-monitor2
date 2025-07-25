@@ -1,0 +1,56 @@
+{
+  "setup": [
+    {
+      "pergunta": "A IA foi desenvolvida com participação de stakeholders relevantes?",
+      "dimensao_ethica": "Governança",
+      "riscos_eticos": [
+        "Falta de transparência",
+        "Ausência de accountability"
+      ]
+    },
+    {
+      "pergunta": "Há documentação clara dos dados utilizados para treinar a IA?",
+      "dimensao_ethica": "Transparência",
+      "riscos_eticos": [
+        "Treinamento enviesado",
+        "Violação de privacidade"
+      ]
+    }
+  ],
+  "assessment": [
+    {
+      "pergunta": "A IA é auditável por terceiros?",
+      "dimensao_ethica": "Auditoria",
+      "riscos_eticos": [
+        "Opacidade algorítmica",
+        "Decisões sem explicação"
+      ]
+    },
+    {
+      "pergunta": "Existem mecanismos para contestação de decisões automatizadas?",
+      "dimensao_ethica": "Justiça",
+      "riscos_eticos": [
+        "Discriminação",
+        "Injustiça algorítmica"
+      ]
+    }
+  ],
+  "resolution": [
+    {
+      "pergunta": "O sistema respeita as leis de proteção de dados (ex: LGPD)?",
+      "dimensao_ethica": "Privacidade",
+      "riscos_eticos": [
+        "Vazamento de dados",
+        "Uso indevido de informações pessoais"
+      ]
+    },
+    {
+      "pergunta": "Usuários têm controle sobre a atuação da IA?",
+      "dimensao_ethica": "Supervisão Humana",
+      "riscos_eticos": [
+        "Falta de autonomia humana",
+        "Riscos de automação cega"
+      ]
+    }
+  ]
+}
